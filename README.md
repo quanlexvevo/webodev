@@ -1,15 +1,10 @@
-# Kişisel Portfolyo Sitesi
-
-Bootstrap ve custom CSS ile oluşturulmuş kişisel blog sitem.
-
+# Kişisel Blog
+Bu proje Web Teknolojileri ödevi için hazırlanmıştır.  
 ## Teknolojiler
+
 * HTML5
 * CSS3
-* Bootstrap 5
+* Java Script
 
 ## Çalıştırma
 Dosyaları indirip index.html'i tarayıcıda açmak veya https://cemkaracavercel.vercel.app adresine gitmek.
-
-## Geliştirme Notları
-- Proje, alpine:3.18 Docker imajı kullanılarak geliştirilmiştir.
-- Bazı CSS problemlerinin çözümünde ve kodun düzenlenmesinde yapay zekadan yardım alınmıştır.
